@@ -119,10 +119,11 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 776px;
+    min-height: 842px;
   }
 
   .u-section-1 .u-group-1 {
+    margin-top: 60px;
     height: auto;
   }
 
@@ -144,6 +145,10 @@
 }
 
 @media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 776px;
+  }
+
   .u-section-1 .u-group-1 {
     min-height: 492px;
     margin-right: initial;
